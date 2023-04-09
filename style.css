@@ -1,0 +1,28 @@
+body{
+    color:hsl(34, 88%, 30%);
+    /*Ponerle color al fondo*/
+    background-color:hsl(34, 57%, 70%);
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    color: chocolate;
+    font-size: 60px;
+}
+
+h3{
+    color: hsl(34, 88%, 30%);
+}
+
+img{
+    width: 400px;/*Ancho*/
+    height: 250px;/*Alto*/
+    padding: 20px;/*Espacio*/
+    margin: 20px;
+}
+
+footer{
+    background-color:hsl(34, 51%, 54%);
+    padding: 20px;
+    margin: ;
+}
